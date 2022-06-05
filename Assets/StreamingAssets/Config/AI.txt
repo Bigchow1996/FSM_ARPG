@@ -1,0 +1,5 @@
+
+[Patrolling]
+NoHealth> Dead
+SawTarget> Pursuit
+CompletePatrol>Idle

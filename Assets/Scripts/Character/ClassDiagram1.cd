@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ArpgDemo.Character.PlayerStatus">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Character\PlayerStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Character.CharacterStatus">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAEAAEABAAAAAAAAMAYJAAAAAgAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Character\CharacterStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
